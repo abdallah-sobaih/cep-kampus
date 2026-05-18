@@ -70,9 +70,9 @@ This project was developed by the Engineering team at Iğdır University under t
 
 💻 Abdallah Sobaih *
 
-🎨 Hiba Aldershawi
+🚀 Hiba Aldershawi
 
-🚀 Rama Almekhlef
+🎨 Rama Almekhlef
 
 ⚙️ Nabil Al Rahmoun
 .
