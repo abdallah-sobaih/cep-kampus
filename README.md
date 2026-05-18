@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/8636/8636990.png" width="120" alt="Cep-Kampüs Logo">
+  <img src="https://https://github.com/abdallah-sobaih/cep-kampus/blob/main/frontend/cep_kampus_app/assets/icon/logo.png" width="120" alt="Cep-Kampüs Logo">
   
   <h1>🎓 Cep-Kampüs</h1>
   <p><b>Next-Generation AI-Powered Campus Assistant for Iğdır University Students</b></p>
