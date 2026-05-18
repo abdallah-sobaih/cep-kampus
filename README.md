@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://https://github.com/abdallah-sobaih/cep-kampus/blob/main/frontend/cep_kampus_app/assets/icon/logo.png" width="120" alt="Cep-Kampüs Logo">
-  
+  <img src="https://raw.githubusercontent.com/abdallah-sobaih/cep-kampus/main/frontend/cep_kampus_app/assets/icon/logo.png" width="120" alt="Cep-Kampüs Logo">
+</div>
   <h1>🎓 Cep-Kampüs</h1>
   <p><b>Next-Generation AI-Powered Campus Assistant for Iğdır University Students</b></p>
 
