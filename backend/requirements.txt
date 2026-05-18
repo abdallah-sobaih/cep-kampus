@@ -1,0 +1,26 @@
+# Web Framework
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+
+# LangChain Core & Integrations
+langchain==0.2.5
+langchain-community==0.2.5
+langchain-chroma==0.1.2
+langchain-huggingface==0.0.3
+
+# PDF Loading
+pypdf==4.2.0
+
+# Vector Store & Embeddings
+chromadb==0.5.3
+sentence-transformers==3.0.1   # For BGE-m3 / Multilingual-E5
+
+# LLM Provider (Groq for fast prototyping)
+groq==0.9.0
+langchain-groq==0.1.6
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.7.4
+pydantic-settings==2.3.1
+tqdm==4.66.4                   # Progress bars during ingestion

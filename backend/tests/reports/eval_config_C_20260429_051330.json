@@ -1,0 +1,49 @@
+{
+  "config": "C",
+  "parameters": {
+    "chunk_size": 650,
+    "chunk_overlap": 75,
+    "top_k": 4
+  },
+  "timestamp": "2026-04-29T05:13:30.680963",
+  "summary": {
+    "total": 2,
+    "passed": 0,
+    "accuracy_pct": 0.0,
+    "avg_latency_s": 1.44,
+    "by_tier": {
+      "1": {
+        "passed": 0,
+        "total": 1
+      },
+      "3": {
+        "passed": 0,
+        "total": 1
+      }
+    }
+  },
+  "results": [
+    {
+      "id": "T1-001",
+      "tier": 1,
+      "query": "Bir dersten kaç kez başarısız olunursa ilişik kesilir?",
+      "passed": false,
+      "phrase_match": false,
+      "hallucination_free": true,
+      "source_correct": false,
+      "answer_preview": "Bu bilgi yönetmelikte bulunmamaktadır.",
+      "latency_s": 2.49
+    },
+    {
+      "id": "T3-001",
+      "tier": 3,
+      "query": "Üniversitenin yemekhane fiyatları nedir?",
+      "passed": false,
+      "phrase_match": true,
+      "hallucination_free": false,
+      "source_correct": true,
+      "answer_preview": "Bu bilgi yönetmelikte bulunmamaktadır.",
+      "latency_s": 0.38
+    }
+  ]
+}

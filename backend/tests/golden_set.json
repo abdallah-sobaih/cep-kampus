@@ -1,0 +1,18 @@
+[
+  {
+    "id": "T1-001",
+    "tier": 1,
+    "query": "Bir dersten kaç kez başarısız olunursa ilişik kesilir?",
+    "expected_source": "lisans_egitim_yonetmeligi.pdf",
+    "must_contain_phrase": "ilişik",
+    "must_not_hallucinate": false
+  },
+  {
+    "id": "T3-001",
+    "tier": 3,
+    "query": "Üniversitenin yemekhane fiyatları nedir?",
+    "expected_source": null,
+    "must_contain_phrase": "Bu bilgi yönetmelikte bulunmamaktadır",
+    "must_not_hallucinate": true
+  }
+]

@@ -1,0 +1,56 @@
+name: cep_kampus_app
+description: Cep-Kampüs — AI-powered university assistant.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management
+  flutter_riverpod: ^2.5.1
+
+  # Replace shared_preferences with these two:
+  sqflite: ^2.3.3+1
+  path: ^1.9.0
+
+  # Remove this line:
+  # shared_preferences: ^2.2.3
+  
+  # HTTP Client
+  dio: ^5.4.3+1
+
+  # Speech-to-Text (native mic integration)
+  speech_to_text: ^7.3.0
+
+  # Local Persistence (chat history)
+  # shared_preferences: ^2.2.3
+
+  # UI Polish
+  flutter_markdown: ^0.6.22     # Render markdown in LLM responses
+  google_fonts: ^6.2.1          # Typography
+  lottie: ^3.1.2                # Mic animation (listening state)
+  url_launcher: ^6.3.0          # Open source documents if hosted
+
+  # Icons
+  cupertino_icons: ^1.0.8
+  uuid: ^4.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  build_runner: ^2.4.11
+  riverpod_generator: ^2.4.0
+  flutter_launcher_icons: ^0.13.1  # ضيف هاد السطر
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/logo.png" # تأكد إنو هاد نفس اسم صورتك
+  min_sdk_android: 21
+flutter:
+  uses-material-design: true
