@@ -1,15 +1,16 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/abdallah-sobaih/cep-kampus/main/frontend/cep_kampus_app/assets/icon/logo.png" width="120" alt="Cep-Kampüs Logo">
-</div>
-
+  
   <h1>🎓 Cep-Kampüs</h1>
   <p><b>Next-Generation AI-Powered Campus Assistant for Iğdır University Students</b></p>
 
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FD6F46?style=for-the-badge&logo=Chroma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meta_Llama_3.3-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
+    <img src="https://img.shields.io/badge/ChromaDB-FD6F46?style=for-the-badge&logo=Chroma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Meta_Llama_3.3-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+  </p>
 </div>
 
 <br/>
