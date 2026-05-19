@@ -66,7 +66,9 @@ flutter pub get
 flutter run
 ```
 👨‍💻 Developer Team
-This project was developed by the Engineering team at Iğdır University under the supervision of Dr.ogr. gültekin ışık:
+This project was developed by the Engineering team at Iğdır University under the supervision of 
+
+👨‍🏫 Doç. Dr. Gültekin IŞIK:
 
 💻 Abdallah Sobaih *
 
