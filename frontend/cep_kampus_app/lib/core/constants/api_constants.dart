@@ -6,7 +6,7 @@ class ApiConstants {
   /// For Android emulator use http://10.0.2.2:8000
   /// For physical device on the same network use http://<YOUR_LAN_IP>:8000
   /// For ngrok use https://<your-subdomain>.ngrok.io
-  static const String baseUrl = 'http://192.168.1.112:8000';
+  static const String baseUrl = 'http://192.168.1.1:8000';
 
   static const String askEndpoint = '/ask';
   static const String healthEndpoint = '/health';
